@@ -1,10 +1,16 @@
 CROSS-PLATFORM REPUTATION GENERATION SYSTEM BASED ON ASPECT BASED SENTIMENTAL ANALYSIS 
+
 NAME VIDHEESH KUMAR KASANAGOTTU 
+
 ROLL NUMBER 22951A62B3 
+
 BRANCH CSE (CYBER SECURITY) 
+
 SECTION B
 
+
 Abstract: 
+
 This project aims to develop a cross-platform reputation generation system based on aspect based 
 sentimental analysis (ABSA) solution that provides individuals with a reputation based on 
 sentimental analysis. The objective is to assist individuals in generating the appropriate 
